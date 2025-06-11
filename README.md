@@ -16,4 +16,9 @@ print(L)
 ----
 
 🧠 Methodology
+
+
+
+
+
 ![g3](https://github.com/user-attachments/assets/6db7cc27-2f7b-45b3-9fa8-afdb5d99ff89)
