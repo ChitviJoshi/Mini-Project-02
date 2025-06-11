@@ -1,5 +1,5 @@
 # Mini-Project-02  
-## Challenge Question 1 – Sorting a Heterogeneous List in Python
+## Challenge Question 
 
 ---
 
