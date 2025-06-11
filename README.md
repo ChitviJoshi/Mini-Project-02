@@ -14,8 +14,9 @@ print(L)
 L.sort()
 print(L)
 
+----
 
-🧠 **Methodology**  
+🧠 Methodology
 - Separate the list based on data types .  
 - Create two new lists:  
   - One containing all the strings  
